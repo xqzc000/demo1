@@ -25,7 +25,7 @@ popwindow,anko,模糊查询，自定义view，（刮刮卡）多图层，path
   b.数据源格式不正确，个别英文，如：“am” “an” 格式不正确，导致未存储到数据库中。
   c.权限问题。需要增加过渡页面
 
-##爬坑
+## 爬坑
 
 ### 1.约束布局 ConstraintLayout
 1)约束布局不能作为RecyclerView的父布局
