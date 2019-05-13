@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="guaguatext" format="string"/>
+    <attr name="guaguatextcolor" format="color"/>
+    <attr name="guaguatextSize" format="dimension"/>
+
+    <declare-styleable name="GuaguakaView" >
+        <attr name="guaguatext"/>
+        <attr name="guaguatextcolor"/>
+        <attr name="guaguatextSize"/>
+    </declare-styleable>
+
+</resources>
